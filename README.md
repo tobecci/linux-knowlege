@@ -12,3 +12,4 @@ collection of linux related knowledge
 ## Contribution
 
 * the `README.md` files act as the directory listings to help in navigating the knowlege base
+* every `README.md` file should start with `[up](../README.md)` at the top

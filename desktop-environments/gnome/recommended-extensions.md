@@ -1,3 +1,5 @@
+[up](../README.md)
+
 # Gnome recommended extensions
 
 - [user themes](https://extensions.gnome.org/extension/19/user-themes/)

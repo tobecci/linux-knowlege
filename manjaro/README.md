@@ -1,6 +1,6 @@
+[up](../README.md)
+
 # Manjaro
 
 ## Contents
-
-* [up](../README.md)
 

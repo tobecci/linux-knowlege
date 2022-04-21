@@ -1,5 +1,5 @@
+[up](../README.md)
+
 # XFCE
 
 ## Contents
-
-* [up](../README.md)

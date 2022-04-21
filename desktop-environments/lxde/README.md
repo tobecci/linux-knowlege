@@ -1,5 +1,5 @@
+[up](../README.md)
+
 # LXDE
 
 ## Contents
-
-* [up](../README.md)

@@ -1,3 +1,6 @@
+[up](../README.md)
+
+
 # libinput config for easy navigation
 put the code below in `~/.config/libinput-gestures.conf`
 

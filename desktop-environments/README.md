@@ -1,5 +1,5 @@
+[up](../README.md)
+
 # Desktop Environments
 
 ## Contents
-
-* [up](../README.md)
