@@ -4,10 +4,10 @@ collection of linux related knowledge
 
 ## Contents
 
-* [general knowledge](./general/index.md)
-* [fedora](./fedora/index.md)
-* [manjaro](./manjaro/)
-* [desktop environments](./desktop-environments/index.md)
+* [general knowledge](./general/README.md)
+* [fedora](./fedora/README.md)
+* [manjaro](./manjaro/README.md)
+* [desktop environments](./desktop-environments/README.md)
 
 ## Contribution
 
