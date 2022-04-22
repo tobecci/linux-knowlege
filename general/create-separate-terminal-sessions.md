@@ -1,4 +1,4 @@
-[up](../README.md)
+[up](./README.md)
 
 # Use the below command to create a new terminal session that can be pushed to the background #
 

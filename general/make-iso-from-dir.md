@@ -1,4 +1,4 @@
-[up](../README.md)
+[up](./README.md)
 
 ## How to create an iso file from a directory
 
