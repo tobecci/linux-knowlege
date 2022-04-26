@@ -19,5 +19,5 @@ gesture swipe up 3 xfdesktop --windowlist
 # four fingers
 
 gesture swipe up 4 xdotool key alt+F4
-gesture swipe down 4 xdotool key ctlr+alt+d
+gesture swipe down 4 xdotool key ctrl+alt+d
 ```
