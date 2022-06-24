@@ -8,6 +8,7 @@ collection of linux related knowledge
 * [fedora](./fedora/README.md)
 * [manjaro](./manjaro/README.md)
 * [desktop environments](./desktop-environments/README.md)
+* [gaming](./gaming/README.md)
 
 ## Contribution
 
