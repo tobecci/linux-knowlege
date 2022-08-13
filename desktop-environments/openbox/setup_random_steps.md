@@ -8,3 +8,7 @@
 
 - run `sudo pacman -S network-manager-applet`
 - add `nm-applet &` to startup commands
+
+## change brightness
+
+- run `sudo pacman -S xorg-xbacklight`
